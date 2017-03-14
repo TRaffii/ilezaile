@@ -2,7 +2,7 @@
 using System.IO;
 using Microsoft.AspNetCore.Hosting;
 
-namespace WebApplication1
+namespace MVCApplicationIleZaIle
 {
     public class Program
     {
